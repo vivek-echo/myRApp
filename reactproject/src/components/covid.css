@@ -1,0 +1,159 @@
+body{
+    background-color: #282c34;
+  
+  
+}
+.heading1
+{
+    color: white;
+    text-align: center;
+}
+.heading2
+{
+    color: white;
+    text-align: center;
+}
+.heading3
+{
+    color: white;
+    text-align: center;
+}
+.card1 {
+    background-color: #ce551c;
+    box-shadow: 0 4px 10px 0 white;
+    transition: 0.3s;
+    width: 30%;
+    /* height: 10%; */
+    border-radius: 5px;
+    padding: 20%;
+    margin: 10%;
+  }
+  
+  .card1:hover {
+    box-shadow: 0 8px 16px 0 white;
+  }
+  
+  
+  
+  .container1 {
+    padding: 2px 16px;
+  }
+
+  .card2 {
+    background-color: #1cce46;
+    box-shadow: 0 4px 10px 0 white;
+    transition: 0.3s;
+    width: 30%;
+    /* height: 10%; */
+    border-radius: 5px;
+    padding: 20%;
+    margin: 10%;
+  }
+  
+  .card2:hover {
+    box-shadow: 0 8px 16px 0 white;
+  }
+  
+  
+  
+  .container2 {
+    padding: 2px 16px;
+  }
+
+  .card3 {
+    background-color: #1c57ce;
+    box-shadow: 0 4px 10px 0 white;
+    transition: 0.3s;
+    width: 30%;
+    /* height: 10%; */
+    border-radius: 5px;
+    padding: 20%;
+    margin: 10%;
+  }
+  
+  .card3:hover {
+    box-shadow: 0 8px 16px 0 white;
+  }
+  
+  
+  
+  .container3 {
+    padding: 2px 16px;
+  }
+  
+  
+  .card4 {
+    background-color: #c6da13;
+    box-shadow: 0 4px 10px 0 white;
+    transition: 0.3s;
+    width: 30%;
+    /* height: 10%; */
+    border-radius: 5px;
+    padding: 20%;
+    margin: 10%;
+  }
+  
+  .card4:hover {
+    box-shadow: 0 8px 16px 0 white;
+  }
+  
+  
+  
+  .container4 {
+    padding: 2px 16px;
+  }
+  
+  
+  .card5 {
+    background-color: #06b5af;
+    box-shadow: 0 4px 10px 0 white;
+    transition: 0.3s;
+    width: 30%;
+    /* height: 10%; */
+    border-radius: 5px;
+    padding: 20%;
+    margin: 10%;
+  }
+  
+  .card5:hover {
+    box-shadow: 0 8px 16px 0 white;
+  }
+  
+  
+  
+  .container5 {
+    padding: 2px 16px;
+  }
+  
+  
+  .card6 {
+    background-color: #da13b6;
+    box-shadow: 0 4px 10px 0 white;
+    transition: 0.3s;
+    width: 30%;
+    /* height: 10%; */
+    border-radius: 5px;
+    padding: 20%;
+    margin: 10%;
+  }
+  
+  .card6:hover {
+    box-shadow: 0 8px 16px 0 white;
+  }
+  
+  
+  
+  .container6 {
+    padding: 2px 16px;
+  }
+  
+  .grid-container {
+    display: grid;
+  grid-template-columns: auto auto auto ;
+  }
+
+  p{
+      color:aliceblue;
+    
+      font-size: 20px;
+  }
